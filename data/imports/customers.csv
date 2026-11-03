@@ -1,1 +1,9 @@
 "Item Code","Item Name",Quantity,"Unit Price","Warehouse Location","Reorder Level"
+ITM-1001,"Laptop Dell Latitude",25,750.50,Mumbai,5
+ITM-1002,"Wireless Mouse",150,18.99,Pune,20
+ITM-1003,"Mechanical Keyboard",75,45.00,Bangalore,10
+ITM-1004,"USB-C Hub",60,32.50,Mumbai,15
+ITM-1005,"Monitor 27 Inch",30,220.00,Delhi,8
+ITM-1006,"External SSD 1TB",45,95.75,Pune,10
+ITM-1007,"Webcam HD",90,55.00,Bangalore,15
+ITM-1008,Headphones,120,39.99,Delhi,25
